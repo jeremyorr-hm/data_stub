@@ -1,25 +1,7 @@
 {
-  "accounts": {
-    "electricity": 121384321,
-    "gas": 981234123
-  },
-  "billing_address": {
-    "line1": "24 Conifers",
-    "postcode": "KT13 9TJ",
-    "town": "Weybridge"
-  },
-  "correspondence_address": {
-    "line1": "24 Conifers",
-    "postcode": "KT13 9TJ",
-    "town": "Weybridge"
-  },
   "customer_id": 12345678,
   "date_of_birth": "01/01/1966",
   "email": "james.bond@gmail.com",
   "first_name": "James",
   "last_name": "Bond",
-  "telephones": {
-    "landline": "02034561234",
-    "mobile": "07071342656"
-  }
 }
