@@ -1,6 +1,6 @@
 {
   "customers": [
-    {"customer_id": 12345678,
+    {"customer_id": "12345678",
     "date_of_birth": "01/01/1966",
     "email": "james.bond@gmail.com",
     "first_name": "James",
